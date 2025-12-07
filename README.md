@@ -48,6 +48,6 @@ This project supports both button clicks and keyboard input for calculations.
 ---
 
 ## 👤 Author
-**Manju**
+**Manju Priyanka**
 
 > Each line of code was written by me while understanding the logic step by step.
