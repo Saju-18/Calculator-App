@@ -26,7 +26,6 @@ This project supports both button clicks and keyboard input for calculations.
 ## 🎯 What I Learned
 - DOM manipulation
 - Event handling (click & keyboard events)
-- Using `eval()` for expression calculation
 - String manipulation (`slice`)
 - Keyboard event handling
 - UI styling using CSS Flexbox
