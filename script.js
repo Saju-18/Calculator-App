@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let display = document.getElementById("display-box");
 
 let del = document.getElementById("delete-btn");
@@ -119,4 +118,5 @@ document.addEventListener("keydown", e => {
     clear.click();
   }
 });
+
 
